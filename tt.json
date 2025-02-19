@@ -1,0 +1,112 @@
+'{\n  "children": [\n    {\n      "id": "/page/0/Page/190",\n      "block_type": "Page",\n      "html": "<content-ref src=\'/page/0/Table/0\'></content-ref><content-ref src=\'/page/0/Table/1\'></content-ref><content-ref src=\'/page/0/Table/2\'></content-ref><content-ref src=\'/page/0/Table/3\'></content-ref><content-ref src=\'/page/0/Text/4\'></content-ref><content-ref src=\'/page/0/Text/5\'></content-ref><content-ref src=\'/page/0/PageFooter/6\'></content-ref><content-ref src=\'/page/0/PageFooter/7\'></content-ref><content-ref src=\'/page/0/Text/8\'></content-ref><content-ref src=\'/page/0/Text/15\'></content-ref><content-ref src=\'/page/0/Text/9\'></content-ref><content-ref src=\'/page/0/SectionHeader/10\'></content-ref><content-ref src=\'/page/0/Text/11\'></content-ref><content-ref src=\'/page/0/Text/12\'></content-ref><content-ref src=\'/page/0/Text/13\'></content-ref><content-ref src=\'/page/0/Text/14\'></content-ref>",\n      "polygon": [\n        [\n          0.0,\n          0.0\n
+                ],\n        [\n          595.0,\n          0.0\n
+                ],\n        [\n          595.0,\n          841.0\n
+                ],\n        [\n          0.0,\n          841.0\n
+                ]\n
+            ],\n      "children": [\n        {\n          "id": "/page/0/Table/0",\n          "block_type": "Table",\n          "html": "<table>\\n<thead>\\n<tr><th> </th><th> </th><th>Calle Río Ebro sn, Polígono Industrial Finanzauto   </th><th> </th><th> </th><th> </th></tr>\\n</thead>\\n<tbody>\\n<tr><td> </td><td> </td><td>28500 Arganda del Rey (MADRID)                      </td><td> </td><td> </td><td> </td></tr>\\n<tr><td> </td><td> </td><td>Teléfono Stericycle: 900 922 903                    </td><td> </td><td> </td><td> </td></tr>\\n<tr><td> </td><td> </td><td>Correo Stericycle: clientes.espana@stericycle.com   </td><td> </td><td> </td><td> </td></tr>\\n<tr><td> </td><td> </td><td>Teléfono Shred-it: 900 170 500                      </td><td> </td><td> </td><td> </td></tr>\\n<tr><td> </td><td> </td><td>Correo Shred-it: comercial.shredit.es@stericycle.com</td><td> </td><td> </td><td> </td></tr>\\n<tr><td>No Factura                            </td><td>LGFA2332934</td><td> </td><td> </td><td> </td><td> </td></tr>\\n<tr><td>No Referencia                         </td><td>0002336381 </td><td>FACTURA                                             </td><td> </td><td>Fecha</td><td>08/11/2023</td></tr>\\n<tr><td>Datos Fiscales                        </td><td> </td><td>Dirección de Envío                                  </td><td> </td><td> </td><td> </td></tr>\\n<tr><td>FIT &amp; URBANIC PILATES SL.             </td><td> </td><td>FIT &amp; URBANIC PILATES SL.                           </td><td> </td><td> </td><td> </td></tr>\\n<tr><td>C/COMUNIDAD DE ANDALUCIA, 33 LOCAL 3-4</td><td> </td><td> </td><td>C/COMUNIDAD DE ANDALUCIA, 33 LOCAL 3-4</td><td> </td><td> </td></tr>\\n<tr><td>28231 LAS ROZAS DE MADRID             </td><td> </td><td> </td><td>28231 LAS ROZAS DE MADRID             </td><td> </td><td> </td></tr>\\n<tr><td>MADRID                                </td><td> </td><td>MADRID                                              </td><td> </td><td> </td><td> </td></tr>\\n<tr><td>CIF: B87019642                        </td><td> </td><td>Cliente: 0086981  MIGUEL MARTINEZ                   </td><td> </td><td> </td><td> </td></tr>\\n</tbody>\\n</table>",\n          "polygon": [\n            [\n              32.393798828125,\n              64.1632080078125\n
+                        ],\n            [\n              573.5009765625,\n              64.1632080078125\n
+                        ],\n            [\n              573.5009765625,\n              266.50830078125\n
+                        ],\n            [\n              32.393798828125,\n              266.50830078125\n
+                        ]\n
+                    ],\n          "children": null,\n          "section_hierarchy": {},\n          "images": {}\n
+                },\n        {\n          "id": "/page/0/Table/1",\n          "block_type": "Table",\n          "html": "<table>\\n<thead>\\n<tr><th>Cantidad              </th><th>Descripción                   </th><th>Peso                                                                                                       </th><th>Precio   Unitario €  </th><th>Importe €  </th><th>IVA %  </th></tr>\\n</thead>\\n<tbody>\\n<tr><td> </td><td> </td><td>Sucursal 001: FIT &amp; URBANIC PILATES, S L, C/COMUNIDAD DE ANDALUCIA, 33 LOCAL 3-4, 28231 LAS ROZAS DE MADRID</td><td> </td><td> </td><td> </td></tr>\\n<tr><td>3,00                  </td><td>FIServiciosClinicosResiduosTri</td><td>0,00 kg                                                                                                    </td><td>12,12000 ud          </td><td>36,36      </td><td>10,00  </td></tr>\\n<tr><td>Sucursal 001: Subtotal</td><td> </td><td> </td><td> </td><td>36,36      </td><td> </td></tr>\\n</tbody>\\n</table>",\n          "polygon": [\n            [\n              34.2822265625,\n              303.876953125\n
+                        ],\n            [\n              574.08203125,\n              303.876953125\n
+                        ],\n            [\n              574.08203125,\n              392.98681640625\n
+                        ],\n            [\n              34.2822265625,\n              392.98681640625\n
+                        ]\n
+                    ],\n          "children": null,\n          "section_hierarchy": {},\n          "images": {}\n
+                },\n        {\n          "id": "/page/0/Table/2",\n          "block_type": "Table",\n          "html": "<table>\\n<thead>\\n<tr><th>Desglose IVA  </th><th> </th><th> </th></tr>\\n</thead>\\n<tbody>\\n<tr><td>IVA %         </td><td>B.Imponible €</td><td>Cuota €</td></tr>\\n<tr><td>10,00         </td><td>36,36        </td><td>3,64   </td></tr>\\n<tr><td>Totales:      </td><td>36,36        </td><td>3,64   </td></tr>\\n</tbody>\\n</table>",\n          "polygon": [\n            [\n              35.11749267578125,\n              636.4990234375\n
+                        ],\n            [\n              177.947998046875,\n              636.4990234375\n
+                        ],\n            [\n              177.947998046875,\n              695.6318359375\n
+                        ],\n            [\n              35.11749267578125,\n              695.6318359375\n
+                        ]\n
+                    ],\n          "children": null,\n          "section_hierarchy": {},\n          "images": {}\n
+                },\n        {\n          "id": "/page/0/Table/3",\n          "block_type": "Table",\n          "html": "<p></p>",\n          "polygon": [\n            [\n              245.7861328125,\n              713.7001953125\n
+                        ],\n            [\n              272.22412109375,\n              713.7001953125\n
+                        ],\n            [\n              272.22412109375,\n              723.5556640625\n
+                        ],\n            [\n              245.7861328125,\n              723.5556640625\n
+                        ]\n
+                    ],\n          "children": null,\n          "section_hierarchy": {},\n          "images": {}\n
+                },\n        {\n          "id": "/page/0/Text/4",\n          "block_type": "Text",\n          "html": "<p block-type=\\"Text\\"><b>BBVA</b> PASEO DE RECOLETOS Nº10. ALA ESTE 2ª PLANTA  28001 MADRID ES74 0182 3994 0501 0150 4570</p>",\n          "polygon": [\n            [\n              241.71875,\n              726.5190353393555\n
+                        ],\n            [\n              421.40728759765625,\n              726.5190353393555\n
+                        ],\n            [\n              421.40728759765625,\n              765.3069763183594\n
+                        ],\n            [\n              241.71875,\n              765.3069763183594\n
+                        ]\n
+                    ],\n          "children": null,\n          "section_hierarchy": {},\n          "images": {}\n
+                },\n        {\n          "id": "/page/0/Text/5",\n          "block_type": "Text",\n          "html": "<p block-type=\\"Text\\">SRCL Consenur S.L.U CL Rio Ebro, s/n - 28500 Arganda del Rey (Madrid) con C.I.F. B86208824 Sociedad Limitada inscrita en el R.M.Madrid Tomo  28907, Folio 93, hoja 520536, CE:Madrid</p>",\n          "polygon": [\n            [\n              33.846435546875,\n              769.95849609375\n
+                        ],\n            [\n              509.5849609375,\n              769.95849609375\n
+                        ],\n            [\n              509.5849609375,\n              789.66943359375\n
+                        ],\n            [\n              33.846435546875,\n              789.66943359375\n
+                        ]\n
+                    ],\n          "children": null,\n          "section_hierarchy": {},\n          "images": {}\n
+                },\n        {\n          "id": "/page/0/PageFooter/6",\n          "block_type": "PageFooter",\n          "html": "<p>RIS</p>",\n          "polygon": [\n            [\n              36.588287353515625,\n              791.31201171875\n
+                        ],\n            [\n              47.1688117980957,\n              791.31201171875\n
+                        ],\n            [\n              47.1688117980957,\n              799.52490234375\n
+                        ],\n            [\n              36.588287353515625,\n              799.52490234375\n
+                        ]\n
+                    ],\n          "children": null,\n          "section_hierarchy": {},\n          "images": {}\n
+                },\n        {\n          "id": "/page/0/PageFooter/7",\n          "block_type": "PageFooter",\n          "html": "<p>Página 1 de 1</p>",\n          "polygon": [\n            [\n              490.41015625,\n              806.09521484375\n
+                        ],\n            [\n              568.8525390625,\n              806.09521484375\n
+                        ],\n            [\n              568.8525390625,\n              814.9070148468018\n
+                        ],\n            [\n              490.41015625,\n              814.9070148468018\n
+                        ]\n
+                    ],\n          "children": null,\n          "section_hierarchy": {},\n          "images": {}\n
+                },\n        {\n          "id": "/page/0/Text/8",\n          "block_type": "Text",\n          "html": "<p block-type=\\"Text\\">08/11/2023</p>",\n          "polygon": [\n            [\n              286.95001220703125,\n              646.76513671875\n
+                        ],\n            [\n              332.36328125,\n              646.76513671875\n
+                        ],\n            [\n              332.36328125,\n              661.9570007324219\n
+                        ],\n            [\n              286.95001220703125,\n              661.9570007324219\n
+                        ]\n
+                    ],\n          "children": null,\n          "section_hierarchy": {},\n          "images": {}\n
+                },\n        {\n          "id": "/page/0/Text/15",\n          "block_type": "Text",\n          "html": "<p block-type=\\"Text\\">Vencimiento</p>",\n          "polygon": [\n            [\n              285.20001220703125,\n              638.656982421875\n
+                        ],\n            [\n              324.539306640625,\n              638.656982421875\n
+                        ],\n            [\n              324.539306640625,\n              645.8069763183594\n
+                        ],\n            [\n              285.20001220703125,\n              645.8069763183594\n
+                        ]\n
+                    ],\n          "children": null,\n          "section_hierarchy": {},\n          "images": {}\n
+                },\n        {\n          "id": "/page/0/Text/9",\n          "block_type": "Text",\n          "html": "<p block-type=\\"Text\\"> 3,64 Base Imponible 36,36 <b>IVA €</b> <b>Subtotal</b> 40,00 <b>Total</b> 40,00</p>",\n          "polygon": [\n            [\n              431.142578125,\n              640.656982421875\n
+                        ],\n            [\n              576.9873046875,\n              640.656982421875\n
+                        ],\n            [\n              576.9873046875,\n              692.75732421875\n
+                        ],\n            [\n              431.142578125,\n              692.75732421875\n
+                        ]\n
+                    ],\n          "children": null,\n          "section_hierarchy": {},\n          "images": {}\n
+                },\n        {\n          "id": "/page/0/SectionHeader/10",\n          "block_type": "SectionHeader",\n          "html": "",\n          "polygon": [\n            [\n              242.880859375,\n              700.5595703125\n
+                        ],\n            [\n              282.68310546875,\n              700.5595703125\n
+                        ],\n            [\n              282.68310546875,\n              714.521484375\n
+                        ],\n            [\n              242.880859375,\n              714.521484375\n
+                        ]\n
+                    ],\n          "children": null,\n          "section_hierarchy": {\n            "2": "/page/0/SectionHeader/10"\n
+                    },\n          "images": {}\n
+                },\n        {\n          "id": "/page/0/Text/11",\n          "block_type": "Text",\n          "html": "<p block-type=\\"Text\\"></p>",\n          "polygon": [\n            [\n              174.02587890625,\n              695.22119140625\n
+                        ],\n            [\n              237.94189453125,\n              693.57861328125\n
+                        ],\n            [\n              237.94189453125,\n              714.93212890625\n
+                        ],\n            [\n              174.02587890625,\n              716.57470703125\n
+                        ]\n
+                    ],\n          "children": null,\n          "section_hierarchy": {\n            "2": "/page/0/SectionHeader/10"\n
+                    },\n          "images": {}\n
+                },\n        {\n          "id": "/page/0/Text/12",\n          "block_type": "Text",\n          "html": "<p block-type=\\"Text\\"><b>Forma de Pago: </b>RECIBO DOMICILIADO a Contado</p>",\n          "polygon": [\n            [\n              221.85000610351562,\n              681.906982421875\n
+                        ],\n            [\n              388.0044250488281,\n              681.906982421875\n
+                        ],\n            [\n              388.0044250488281,\n              710.00439453125\n
+                        ],\n            [\n              221.85000610351562,\n              710.00439453125\n
+                        ]\n
+                    ],\n          "children": null,\n          "section_hierarchy": {\n            "2": "/page/0/SectionHeader/10"\n
+                    },\n          "images": {}\n
+                },\n        {\n          "id": "/page/0/Text/13",\n          "block_type": "Text",\n          "html": "<p block-type=\\"Text\\"></p>",\n          "polygon": [\n            [\n              108.7298583984375,\n              718.6279296875\n
+                        ],\n            [\n              166.7626953125,\n              716.9853515625\n
+                        ],\n            [\n              166.7626953125,\n              734.232421875\n
+                        ],\n            [\n              108.7298583984375,\n              735.875\n
+                        ]\n
+                    ],\n          "children": null,\n          "section_hierarchy": {\n            "2": "/page/0/SectionHeader/10"\n
+                    },\n          "images": {}\n
+                },\n        {\n          "id": "/page/0/Text/14",\n          "block_type": "Text",\n          "html": "<p block-type=\\"Text\\"><b>Observaciones</b></p>",\n          "polygon": [\n            [\n              36.660919189453125,\n              726.8408203125\n
+                        ],\n            [\n              88.756103515625,\n              726.8408203125\n
+                        ],\n            [\n              88.756103515625,\n              737.517578125\n
+                        ],\n            [\n              36.660919189453125,\n              737.517578125\n
+                        ]\n
+                    ],\n          "children": null,\n          "section_hierarchy": {\n            "2": "/page/0/SectionHeader/10"\n
+                    },\n          "images": {}\n
+                }\n
+            ],\n      "section_hierarchy": {\n        "2": "/page/0/SectionHeader/10"\n
+            },\n      "images": null\n
+        }\n
+    ],\n  "block_type": "Document"\n
+}'

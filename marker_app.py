@@ -14,14 +14,28 @@ from typing import Any, Dict
 import pypdfium2
 import streamlit as st
 from PIL import Image
-
+# import pdb
 from marker.converters.pdf import PdfConverter
 from marker.models import create_model_dict
 from marker.config.parser import ConfigParser
 from marker.output import text_from_rendered
 
+
+import debugpy
+import time
+
+if not debugpy.is_client_connected():
+    debugpy.listen(("localhost", 5678))
+    print("Waiting for debugger attach...")
+    debugpy.wait_for_client()
+    print("Debugger attached.")
+    
 @st.cache_resource()
+
+
+
 def load_models():
+    # pdb.set_trace()
     return create_model_dict()
 
 
@@ -123,7 +137,7 @@ if not run_marker:
     st.stop()
 
 # Run Marker
-with tempfile.NamedTemporaryFile(suffix=".pdf", mode="wb+") as temp_pdf:
+with tempfile.NamedTemporaryFile(suffix=".pdf",delete=False, mode="wb+") as temp_pdf:
     temp_pdf.write(in_file.getvalue())
     temp_pdf.seek(0)
     filename = temp_pdf.name
@@ -134,7 +148,8 @@ with tempfile.NamedTemporaryFile(suffix=".pdf", mode="wb+") as temp_pdf:
         "debug": debug,
         "output_dir": settings.DEBUG_DATA_FOLDER if debug else None,
         "use_llm": use_llm,
-        "strip_existing_ocr": strip_existing_ocr
+        "strip_existing_ocr": strip_existing_ocr,
+        "disable_image_extraction": True,
     }
     config_parser = ConfigParser(cli_options)
     rendered = convert_pdf(
@@ -145,6 +160,13 @@ with tempfile.NamedTemporaryFile(suffix=".pdf", mode="wb+") as temp_pdf:
     first_page = page_range[0] if page_range else 0
 
 text, ext, images = text_from_rendered(rendered)
+from marker.output import output_exists, save_output
+
+base_name = config_parser.get_base_filename(filename)
+out_folder = config_parser.get_output_folder(filename)
+save_output(rendered, out_folder, base_name)
+print(text)
+
 with col2:
     if output_format == "markdown":
         text = markdown_insert_images(text, images)
